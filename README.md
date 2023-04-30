@@ -5,8 +5,8 @@
 --- 
 
 ## **Members**
-| Name | Banner ID |
-| ----------- | ----------- |
+| Name 
+| ----------- |
 | Rahul Ashokkumar Macwan 
 | Raghu Prabath Mathukumalli 
 | Aneri Shah 
