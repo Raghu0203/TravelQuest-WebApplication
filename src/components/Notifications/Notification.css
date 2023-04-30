@@ -1,0 +1,39 @@
+.custom-toast-container {
+    background-color: transparent;
+  }
+  
+  .Toastify__toast-container {
+    margin-top: 50px;
+    width: 500px;
+  }
+  
+  .Toastify__toast {
+    background-color: #E9E5D6;
+    color: #362706;
+    font-size: 16px;
+    border-radius: 10px;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2);
+    border: none;
+    padding: 20px;
+  }
+  
+  .Toastify__close-button {
+    color: #362706;
+  }
+  
+  .Toastify__progress-bar {
+    background-color: #464E2E;
+  }
+
+  .notification-toast {
+  
+    align-items: center;
+    background-color: #E9E5D6;
+    border-radius: 10px;
+    color: #020202;
+    font-size: 16px;
+    text-align: center;
+  
+  }
+  
+  
