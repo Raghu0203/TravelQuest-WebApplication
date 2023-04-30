@@ -13,16 +13,6 @@
 | Sahil Chawla 
 | Purvisha Patel
 
----
-## Table of Contents
-- [Introduction](#introduction)
-- [Getting Started](#getting-started)
-- [Links](#links)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Conclusion](#conclusion)
-
----
 
 ## **Introduction**
 
@@ -33,12 +23,6 @@ Welcome to our React JS project, Travel Quest! Our Travel Quest web application,
 Also you can access the deployed version of our web application using this link: 
 
 - *[Travel Quest](https://deft-cupcake-92e3bf.netlify.app)*
-
-- *[Gitlab Respository](https://git.cs.dal.ca/avshah/csci5193_technology_innovation_group3/-/tree/development)*
-
-- *[Prototype Demonstration](https://www.youtube.com/watch?v=LmDaDbqvCJg)*
-
-- *[Final Pitch](https://www.youtube.com/watch?v=t3-S8-BcHtY)*
 
 - *[Asana Board](https://app.asana.com/0/1203912969603913/1203912969603913)*
 
