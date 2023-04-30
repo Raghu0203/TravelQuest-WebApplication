@@ -7,8 +7,8 @@
 ## **Members**
 | Name 
 | ----------- |
+|Raghu Prabath Mathukumalli
 | Rahul Ashokkumar Macwan 
-| Raghu Prabath Mathukumalli 
 | Aneri Shah 
 | Sahil Chawla 
 | Purvisha Patel
